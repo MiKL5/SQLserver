@@ -23,5 +23,5 @@ Le T-SQL est analogue au PL/SQL (Procedural Language / Structured Query Language
 1. [Les opérateurs de comparaison](sqlServer/part1)  
 1. [Les opérateurs de prédicats d’appartenance](sqlServer/part1)  
 1. [Les opérateurs de test de nullité](sqlServer/part1)  
-1. [Les opérateur logiques `AND` ET `OR`](sqlServer/part2)  
+1. [Les opérateur logiques `AND` & `OR`](sqlServer/part2)  
 1. [Trier via `ORDER BY`](sqlServer/part2)  
