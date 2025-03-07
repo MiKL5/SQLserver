@@ -96,10 +96,74 @@ USE [db] ;
 -- Tout sauvegarder de contact
 SELECT * INTO contact_sauvg FROM contact ;
 SELECT * FROM contact_sauvg ;
+
 -- Copier les noms
 SELECT nom INTO contact_noms FROM contact ;
 SELECT * FROM contact_noms ;
+
 -- Dans contact_dupont copier les Dupont
 SELECT * INTO contact_dupont FROM contact WHERE nom = 'DUPONT' ;
 SELECT * FROM contact_dupont ;
 ```
+## **Les opérateurs de comparaison**
+* `=`          (pour le WHERE) ;
+* `<`          Inférieur ;
+*  `<=`        Inférieur ou égal ;
+* `>`          Supérieur ;
+* `>=`         Supérieur ou égal ;
+* `<>` ou `=!` Différent.
+```sql
+-- Lister tout le monde sauf Thuiller
+SELECT * FROM contact WHERE nom <> ('Thuillier') ;
+
+-- Lister les personne de moins de 22 ans
+SELECT * FROM contact WHERE age < 22 ;
+
+-- Ceux dont lâge est inférieur ou égal à 22 ans
+SELECT * FROM contact WHERE age <= 22 ;
+
+-- Ceux ayant plus de 34 ans
+SELECT * FROM contact WHERE age > 34 ;
+
+-- Ceux de 34 ans et +
+SELECT * FROM contact WHERE age >= 34 ;
+
+-- Ceux qui n'ont pas 41 ans
+SELECT * FROM contact WHERE age <> 41 ;
+
+SELECT * FROM contact WHERE age != 41 ; -- Très rare
+```
+## **Les opérateurs de prédicat d’appartenance`IN` et `NOT IN` et les opétateur de test de nullité `IS` et `IS NOT NULL`**
+Il détermine si la valeur correspond ou non à une listée.  
+`NULL` est un marqueur informant que le champs n’est pas renseigné.
+```sql
+-- Lister tout les contacts sauf 'Dutruel'
+SELECT * FROM contact WHERE nom NOT IN ('Dutruel') ;
+
+-- Lister les personnes dan la date de naisssance est connue
+SELECT * FROM contact WHERE naissance IS NOT NULL ;
+
+-- Puis les personne qui ne l'on pas renseigner
+SELECT * FROM contact WHERE naissance IS NULL ; -- Tous l'on renseignée
+
+-- Ne lister que les femmes
+SELECT * FROM contact WHERE sexe NOT IN ('M') ;
+SELECT * FROM contact WHERE sexe IN ('F') ;
+
+-- Trouver Dutruel et Thuiller
+SELECT * FROM contact WHERE nom IN ('Dutruel' , 'Thuillier') ;
+
+-- Tous sauf Dutruel et Thuillier
+SELECT * FROM contact WHERE nom NOT IN ('Dutruel' , 'Thuillier') ;
+
+-- Insérer une valeur nule à contact
+INSERT INTO contact VALUES ('Bourgeon' , 'Elodie' , 43 , 'F' , NULL) ;
+
+-- Quelles sont les dates de naissances renseignées ?
+SELECT * FROM contact WHERE naissance IS NOT NULL ;
+
+-- Qui sont les personnes dont la date de naissance est inconnue ?
+SELECT * FROM contact WHERE naissance IS NULL ;
+```
+___
+[Exercice](../sql/2)

@@ -10,15 +10,18 @@ Contrairement à Oracle, MySQL et PostgreSQL, SQL Server se distingue du fait d�
 Il fonctionne avec le langage Transact-SQL développer dans les années 1980 par Sybase et Microsoft ; il étend les capacités de SQL avec des instructions supplémentaires pour la manupulation et la définition des données, ainsi que des fonctionnalités spécifiques à SQL server, telles que la sécurité et les statistiques de base de données.  
 Le T-SQL est analogue au PL/SQL (Procedural Language / Structured Query Language).
 
-[Version](sqlServer/version)
-
-[Les BDD](sqlServer/datasets)  
-[Les tables](sqlServer/tables)  
-[Insérer, sélectionner, modifier et supprimer les données](sqlServer/insert)  
-[Alias, l’opérateur `LIKE`, `TOP`, `DISTINCT`, `SELECT INTO`, Les opérateurs de comparaison, `IN`, `NOT IN`, `IS`, `IS NOT`](sqlServer/alias)  
-Les alias  
-Affiner les recheerches avec l’opérateur ’`LIKE`’  
-Remonter quelques lignes avec ’`TOP`’  
-Ne pas afficher les valeurs dipliquées avec ’`DISTINCT`’  
-Copier un table  
-<!-- […]() -->
+0. [Version](sqlServer/version)
+---
+1. [Les BDD](sqlServer/datasets)  
+1. [Les tables](sqlServer/tables)  
+1. [Insérer, sélectionner, modifier et supprimer les données](sqlServer/insert)    
+1. [Les alias](sqlServer/part1)  
+1. [Affiner les recheerches avec l’opérateur ’`LIKE`’](sqlServer/part1)  
+1. [Remonter quelques lignes avec ’`TOP`’](sqlServer/part1)  
+1. [Masquer les valeurs dipliquées avec ’`DISTINCT`’](sqlServer/part1)  
+1. [Copier une table](sqlServer/part1)  
+1. [Les opérateurs de comparaison](sqlServer/part1)  
+1. [Les opérateurs de prédicats d’appartenance](sqlServer/part1)  
+1. [Les opérateurs de test de nullité](sqlServer/part1)  
+1. [Les opérateur logiques `AND` ET `OR`](sqlServer/part2)  
+1. [Trier via `ORDER BY`](sqlServer/part2)  
