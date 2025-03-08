@@ -1,4 +1,4 @@
-# **Alias, l’opérateur `LIKE`, `TOP`, `DISTINCT`, `SELECT INTO`, les opérateurs de comparaison, `IN`, `NOT IN`, `IS`, `IS NOT`**<a href="../../"> <img src="../../assets/Microsoft_SQL_Server.svg" alt="SQL Server" align="right" height="64px"> </a>
+# **Partie 1**<a href="../../"> <img src="../../assets/Microsoft_SQL_Server.svg" alt="SQL Server" align="right" height="64px"> </a>
 ## **Les alias**
 ```sql
 USE db ;
