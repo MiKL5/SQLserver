@@ -1,7 +1,7 @@
 # **Microsoft SQL Server** <a href="https://github.com/MiKL5/Business_Intelligence/"> <img src="assets/Microsoft_SQL_Server.svg" alt="SQL Server" align="right" height="64px"> </a>
 C’est un Système de Gestion de Base de Données Relationnel.
 
-Initialement développé en 1088 par Sybase et Microsoft, puis commercialisé en 1989. En 1084, le partenariat est rompu ; Microsoft le commercialise sous SQL server.
+Initialement développé en 1988 par Sybase et Microsoft, puis commercialisé en 1989. En 1084, le partenariat est rompu ; Microsoft le commercialise sous SQL server.
 
 Il se distingue de la concurence par une grande richesse ne nécessitant aucune option payante supplémentaire dans la limite de la version choisie.
 
@@ -44,5 +44,4 @@ Le T-SQL est analogue au PL/SQL (Procedural Language / Structured Query Language
 1. Le Hint avec les jointures  
 1. Les jointures ’`CROSS APPLY`’ & ’`OUTER APPLY`’  
 1. Les jointures ’`EXCEPT`’ / ’`INTERSEPT`’  
-1. Les clauses ’OFFSET-FETCH`’ & ’`NEXT-ROWS’  
-
+1. Les clauses ’`OFFSET-FETCH`’ & ’`NEXT-ROWS`’  
