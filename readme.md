@@ -7,8 +7,8 @@ Il se distingue de la concurence par une grande richesse ne nécessitant aucune 
 
 Contrairement à Oracle, MySQL et PostgreSQL, SQL Server se distingue du fait d’être SGBDR originnelement multibase et multischéma. Les requêtes nativement interbases sont possibles.
 
-Il fonctionne avec le langage Transact-SQL développer dans les années 1980 par Sybase et Microsoft ; il étend les capacités de SQL avec des instructions supplémentaires pour la manupulation et la définition des données, ainsi que des fonctionnalités spécifiques à SQL server, telles que la sécurité et les statistiques de base de données.  
-Le [T-SQL](docs/tsql) est analogue au PL/SQL (Procedural Language / Structured Query Language).
+Il fonctionne avec le langage [Transact-SQL](docs/tsql) développer dans les années 1980 par Sybase et Microsoft ; il étend les capacités de SQL avec des instructions supplémentaires pour la manupulation et la définition des données, ainsi que des fonctionnalités spécifiques à SQL server, telles que la sécurité et les statistiques de base de données.  
+Le T-SQL est analogue au [PL/SQL (Procedural Language / Structured Query Language)](docs/plsql).
 
 <!-- 0. [Version](sqlServer/version) -->
 ---
@@ -46,3 +46,5 @@ Le [T-SQL](docs/tsql) est analogue au PL/SQL (Procedural Language / Structured Q
 1. Les jointures ’`EXCEPT`’ / ’`INTERSEPT`’  
 1. Les clauses ’`OFFSET-FETCH`’ & ’`NEXT-ROWS`’  
 <!-- 1. ’`TRIM`’ ,’`LTRIM`’ ,’`RTRIM`’ ,’`UPPER`’ ,’`LOWER`’   -->
+___
+[SQL vs T-SQL vs PL/SQL](docs/compare)
