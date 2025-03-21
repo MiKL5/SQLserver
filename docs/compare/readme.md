@@ -1,8 +1,8 @@
-# **Parangon avec SQL, T-SQL et PL/SQL**
+# **Parangon avec SQL, T-SQL et PL/SQL**<a href="../../"><img src="../../assets/Microsoft_SQL_Server.svg" alt="SQL Server" align="right" height="64px"></a>
 Caractéristique	| SQL | T-SQL | PL/SQL
 ---|:-:|:-:|:-:|
 Rôle principal | Langage de requête standardisé | Extension procédurale pour SQL Server | Extension procédurale pour Oracle Database	
-Standardisation| Norme ANSI SQL | Propriétaire (Microsoft) | Propriétaire (Oracle)	
+Standardisation| ✅ Norme ANSI SQL | ❌ Microsoft | ❌ Oracle	
 Type de langage | Déclaratif | Procédural et déclaratif | Procédural et déclaratif	
 Structures de contrôle | Limité (requêtes imbriquées, etc.) | IF, WHILE, CASE, etc. | IF, LOOP, FOR, CASE, etc.	
 Variables | ❌ (sauf dans les environnements intégrés) | ✅ | ✅	
