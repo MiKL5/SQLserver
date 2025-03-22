@@ -18,7 +18,7 @@ C’est une extension dont Oracle est le propriétaire.
 * Les déclencheurs (triggers) ;
 * La gestion des exceptions (permet de capturer et gérer les erreurs) ;
 ## **Ses atouts**
-✅ Il est plus performant que l’exécution de multiples requêtes SQL séparées.
-✅ Il permet l’automatisation avec des procédures stockées et des déclencheurs.
-✅ Il sécurise la logique métier directement dans la base de données.
+✅ Il est plus performant que l’exécution de multiples requêtes SQL séparées.  
+✅ Il permet l’automatisation avec des procédures stockées et des déclencheurs.  
+✅ Il sécurise la logique métier directement dans la base de données.  
 ✅ Il offre une gestion avancée des erreurs.
