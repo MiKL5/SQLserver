@@ -12,48 +12,48 @@ Le T-SQL est analogue au [PL/SQL (Procedural Language / Structured Query Languag
 1. [Version](sqlServer/version) -->
 ---
 1. Les BDD
-2. Les tables
-3. Insérer, sélectionner, modifier et supprimer les données
-4. Les alias
-5. Affiner les recheerches avec l’opérateur ’`LIKE`’
-6. Remonter quelques lignes avec ’`TOP`’
-7. Masquer les valeurs dipliquées avec ’`DISTINCT`’
-8. Copier une table
-9. Les opérateurs de comparaison
-10. Les opérateurs de prédicats d’appartenance
-11. Les opérateurs de test de nullité
-12. Les opérateur logiques ’`AND`’ & ’`OR`’
-13. Trier via `ORDER BY`
-14. Les fonctions d’agrégation ’`MIN`’, ’`MAX`’ & ’`AVERAGE`’
-15. L’opérateur `BETWEEN`
-16. La fonction d’agrégat ’`COUNT`’
-17. La fonction d’agrégat ’`SUM`’
-18. La condition ’`HAVING`’
-19. Grouper les résultats
-20. Retourner un message
-21. La joinyure ’`INNER JOIN`’
-22. La joinyure ’`LEFT JOIN`’
-23. La joinyure ’`RIGHT JOIN`’
-24. La joinyure ’`FULL OUTER JOIN`’
-25. Une jointure + ’`IS NULL`’
-26. La jointure ’`CROSS JOIN`’
-27. Plusieurs jointures
-28. La jointure ’`LEFT JOIN`’ vs ’`NOT IN`’ vs ’`NOT EXISTS`’
-29. Update avec les jointures
-30. Le Hint avec les jointures
-31. Les jointures ’`CROSS APPLY`’ & ’`OUTER APPLY`’
-32. Les jointures ’`EXCEPT`’ / ’`INTERSEPT`’
-33. Les clauses ’`OFFSET-FETCH`’ & ’`NEXT-ROWS`’
-34. Les clauses ’`TRIM`’ ,’`LTRIM`’ ,’`RTRIM`’ ,’`UPPER`’ ,’`LOWER`’
-35. La commande ’`SUBSTRING`’
-36. La clause ’`FORMAT`’
-37. La clause ’`CASE WHEN`’
-38. Les clauses ’`LEFT`’ / ’`RIGHT`’
-39. La clause ’`IIF`’
-<!-- 1. ’`REPLACE`’ & ’`LEN`’ -->
-<!-- 1. ’`CHOOSE`’ -->
-<!-- 1. ’`DROP IF EXISTS`’ -->
-<!-- 1. ’`COALESCE`’ -->
-<!-- 1. ’`UNION`’ & ’`UINION ALL`’ -->
+1. Les tables
+1. Insérer, sélectionner, modifier et supprimer les données
+1. Les alias
+1. Affiner les recheerches avec l’opérateur ’`LIKE`’
+1. Remonter quelques lignes avec ’`TOP`’
+1. Masquer les valeurs dipliquées avec ’`DISTINCT`’
+1. Copier une table
+1. Les opérateurs de comparaison
+1. Les opérateurs de prédicats d’appartenance
+1. Les opérateurs de test de nullité
+1. Les opérateur logiques ’`AND`’ & ’`OR`’
+1. Trier via `ORDER BY`
+1. Les fonctions d’agrégation ’`MIN`’, ’`MAX`’ & ’`AVERAGE`’
+1. L’opérateur `BETWEEN`
+1. La fonction d’agrégat ’`COUNT`’
+1. La fonction d’agrégat ’`SUM`’
+1. La condition ’`HAVING`’
+1. Grouper les résultats
+1. Retourner un message
+1. La joinyure ’`INNER JOIN`’
+1. La joinyure ’`LEFT JOIN`’
+1. La joinyure ’`RIGHT JOIN`’
+1. La joinyure ’`FULL OUTER JOIN`’
+1. Une jointure + ’`IS NULL`’
+1. La jointure ’`CROSS JOIN`’
+1. Plusieurs jointures
+1. La jointure ’`LEFT JOIN`’ vs ’`NOT IN`’ vs ’`NOT EXISTS`’
+1. Update avec les jointures
+1. Le Hint avec les jointures
+1. Les jointures ’`CROSS APPLY`’ & ’`OUTER APPLY`’
+1. Les jointures ’`EXCEPT`’ / ’`INTERSEPT`’
+1. Les clauses ’`OFFSET-FETCH`’ & ’`NEXT-ROWS`’
+1. Les clauses ’`TRIM`’ ,’`LTRIM`’ ,’`RTRIM`’ ,’`UPPER`’ ,’`LOWER`’
+1. La commande ’`SUBSTRING`’
+1. La clause ’`FORMAT`’
+1. La clause ’`CASE WHEN`’
+1. Les clauses ’`LEFT`’ / ’`RIGHT`’
+1. La clause ’`IIF`’
+1. ’`REPLACE`’ & ’`LEN`’
+1. ’`CHOOSE`’
+1. ’`DROP IF EXISTS`’
+1. ’`COALESCE`’
+1. ’`UNION`’ & ’`UINION ALL`’
 ___
 [SQL vs T-SQL vs PL/SQL](docs/compare)
