@@ -31,10 +31,10 @@ Le T-SQL est analogue au [PL/SQL (Procedural Language / Structured Query Languag
 1. La condition ’`HAVING`’
 1. Grouper les résultats
 1. Retourner un message
-1. La joinyure ’`INNER JOIN`’
-1. La joinyure ’`LEFT JOIN`’
-1. La joinyure ’`RIGHT JOIN`’
-1. La joinyure ’`FULL OUTER JOIN`’
+1. La jointure ’`INNER JOIN`’
+1. La jointure ’`LEFT JOIN`’
+1. La jointure ’`RIGHT JOIN`’
+1. La jointure ’`FULL OUTER JOIN`’
 1. Une jointure + ’`IS NULL`’
 1. La jointure ’`CROSS JOIN`’
 1. Plusieurs jointures
