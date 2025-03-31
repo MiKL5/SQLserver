@@ -55,5 +55,12 @@ Le T-SQL est analogue au [PL/SQL (Procedural Language / Structured Query Languag
 1. ’`DROP IF EXISTS`’
 1. ’`COALESCE`’
 1. ’`UNION`’ & ’`UINION ALL`’
+1. Les types de colonnes : chaîne de caractères
+1. Les types de colonnes : les types numériques
+1. Les types de colonnes : dates
+1. Les types de colonnes : la colonne GUID
+1. Les types de colonnes : la performuance sur la colonne GUID
+1. Les types de colonnes : ajour, renommage et suppresion
+1. Les types de colonnes : choix des colonnes ‘VARCHAR’
 ___
 [SQL vs T-SQL vs PL/SQL](docs/compare)
