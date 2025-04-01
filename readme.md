@@ -65,5 +65,13 @@ Le T-SQL est analogue au [PL/SQL (Procedural Language / Structured Query Languag
 1. La vue
 1. Créer une vue
 1. Renommer, modifier ou supprimer une vue
+1. Les procédures stockées
+1. Création de procédure stockée
+1. Renommer, modifier ou supprimer une procédure stockée
+1. Déclarer une variable dans une procédure stockée
+1. Les procédures stockées
+1. Création de procédure stockée
+2. Renommer, modifier ou supprimer une procédure stockée
+3. Déclarer une variable dans une procédure stockée
 ___
 [SQL vs T-SQL vs PL/SQL](docs/compare)
