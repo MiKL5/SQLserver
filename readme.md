@@ -30,6 +30,8 @@ Le T-SQL est analogue au [PL/SQL (Procedural Language / Structured Query Languag
 1. La fonction d’agrégat ’`SUM`’
 1. La condition ’`HAVING`’
 1. Grouper les résultats
+1. Les valeurs temporelles et dates manquantes `DATE_BUCKET`, `FIRST_VALUE` & `LAST_VALUE`
+1. Générer les séquences de nombre avec `GENERATE_SERIES`
 1. Retourner un message
 1. La jointure ’`INNER JOIN`’
 1. La jointure ’`LEFT JOIN`’
@@ -48,6 +50,7 @@ Le T-SQL est analogue au [PL/SQL (Procedural Language / Structured Query Languag
 1. La commande ’`SUBSTRING`’
 1. La clause ’`FORMAT`’
 1. La clause ’`CASE WHEN`’
+1. Les clauses ’`LEAST`’ & ’`GREATEST`’
 1. Les clauses ’`LEFT`’ / ’`RIGHT`’
 1. La clause ’`IIF`’
 1. ’`REPLACE`’ & ’`LEN`’
@@ -80,5 +83,6 @@ Le T-SQL est analogue au [PL/SQL (Procedural Language / Structured Query Languag
 1. Les fonctions inline<!-- (aussi dite de type table)-->
 1. Sargable or not sargable
 1. Les performances des foctions scalaire
+1. La fonction de partition par la clause `WINDOW`
 ___
 [SQL vs T-SQL vs PL/SQL](docs/compare)
