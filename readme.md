@@ -71,7 +71,10 @@ Le T-SQL est analogue au [PL/SQL (Procedural Language / Structured Query Languag
 1. Déclarer une variable dans une procédure stockée
 1. Les procédures stockées
 1. Création de procédure stockée
-2. Renommer, modifier ou supprimer une procédure stockée
-3. Déclarer une variable dans une procédure stockée
+1. Renommer, modifier ou supprimer une procédure stockée
+1. Déclarer une variable dans une procédure stockée
+1. Les triggers
+1. Les vues dans les déclencheurs
+1. Créer un trigger sur un login
 ___
 [SQL vs T-SQL vs PL/SQL](docs/compare)
