@@ -76,5 +76,9 @@ Le T-SQL est analogue au [PL/SQL (Procedural Language / Structured Query Languag
 1. Les triggers
 1. Les vues dans les déclencheurs
 1. Créer un trigger sur un login
+1. Les fonctions sclaires
+1. Les fonctions inline<!-- (aussi dite de type table)-->
+1. Sargable or not sargable
+1. Les performances des foctions scalaire
 ___
 [SQL vs T-SQL vs PL/SQL](docs/compare)
