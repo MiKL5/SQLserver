@@ -52,9 +52,9 @@ Le T-SQL est analogue au [PL/SQL (Procedural Language / Structured Query Languag
 1. La clause ’`CASE WHEN`’
 1. Les clauses ’`LEAST`’ & ’`GREATEST`’
 1. Les clauses ’`LEFT`’ / ’`RIGHT`’
-1. La clause ’`IIF`’
+1. Fonction logique, la clause ’`IIF`’
 1. Les clauses ’`REPLACE`’ & ’`LEN`’
-1. La clause ’`CHOOSE`’
+1. Fonction logique, la clause ’`CHOOSE`’
 1. La clause’`DROP IF EXISTS`’
 1. La clause ’`COALESCE`’
 1. Les clauses ’`UNION`’ & ’`UINION ALL`’
