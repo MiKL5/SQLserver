@@ -41,7 +41,21 @@ delete from peoples where nom = 'Vire' ;
 update peoples set prenom = 'Eli' , nom = 'Marchande' where prenom = 'Elisabeth' ;
 update peoples set prenom = 'Eli' , nom = 'Walker' where prenom = 'Eli' and nom = 'Marchande' ;
 
+-- Copier la table
+select * into peoples_copy from peoples ;
 
+select * from peoples_copy ;
+
+-- LES COPIES
+-- Copier les  noms et prénoms dans un nouvelles nnoms_prenms
+select nom , prenom into noms_prenoms from peoples ;
+
+select * from noms_prenoms ;
+
+-- Copier les 5 premiers noms et prénoms dans un nouvelles np5
+select top 5 nom , prenom into np5 from peoples ;
+
+select * from np5 ;
 
 -- LES PROCEDURES STOCKEES
 create procedure ps_insert as

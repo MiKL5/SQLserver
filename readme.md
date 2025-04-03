@@ -42,7 +42,7 @@ Le T-SQL est analogue au [PL/SQL (Procedural Language / Structured Query Languag
 1. Plusieurs jointures
 1. La jointure ’`LEFT JOIN`’ vs ’`NOT IN`’ vs ’`NOT EXISTS`’
 1. Update avec les jointures
-1. Le Hint avec les jointures
+1. Le ’`Hint`’ avec les jointures
 1. Les jointures ’`CROSS APPLY`’ & ’`OUTER APPLY`’
 1. Les jointures ’`EXCEPT`’ / ’`INTERSEPT`’
 1. Les clauses ’`OFFSET-FETCH`’ & ’`NEXT-ROWS`’
@@ -53,11 +53,14 @@ Le T-SQL est analogue au [PL/SQL (Procedural Language / Structured Query Languag
 1. Les clauses ’`LEAST`’ & ’`GREATEST`’
 1. Les clauses ’`LEFT`’ / ’`RIGHT`’
 1. La clause ’`IIF`’
-1. ’`REPLACE`’ & ’`LEN`’
-1. ’`CHOOSE`’
-1. ’`DROP IF EXISTS`’
-1. ’`COALESCE`’
-1. ’`UNION`’ & ’`UINION ALL`’
+1. Les clauses ’`REPLACE`’ & ’`LEN`’
+1. La clause ’`CHOOSE`’
+1. La clause’`DROP IF EXISTS`’
+1. La clause ’`COALESCE`’
+1. Les clauses ’`UNION`’ & ’`UINION ALL`’
+1. Les fonctions de conversion ’`CAST`’ & ’`CONVERT`’
+1. Les fonctions de conversion ’`TRY CAST`’ & ’`TRY CONVERT`’
+1. Les fonctions de conversion ’`TRY PARSE`’ & ’`PARSE`’
 1. Les types de colonnes : chaîne de caractères
 1. Les types de colonnes : les types numériques
 1. Les types de colonnes : dates
