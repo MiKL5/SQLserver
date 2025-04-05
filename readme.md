@@ -54,6 +54,8 @@ ___
 1. Les clauses ’`LEFT`’ / ’`RIGHT`’
 1. Fonction logique, la clause ’`IIF`’
 1. Les clauses ’`REPLACE`’ & ’`LEN`’
+1. Les clauses ’`REPLICATE`’, ’`REVERSE`’ & ’`CHARINDEX`’
+1. Les clauses ’`STRING/SPLIT`’ & ’`STUFF`’
 1. Fonction logique, la clause ’`CHOOSE`’
 1. La clause’`DROP IF EXISTS`’
 1. La clause ’`COALESCE`’
