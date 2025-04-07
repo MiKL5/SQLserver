@@ -52,12 +52,12 @@ ___
 1. La clause ’`CASE WHEN`’
 1. Les clauses ’`LEAST`’ & ’`GREATEST`’
 1. Les clauses ’`LEFT`’ / ’`RIGHT`’
-1. Fonction logique, la clause ’`IIF`’
-1. Fonction logique, la clause ’`CHOOSE`’
+1. Fonction logique, la clause ’`IIF`’, évalue une liste de condition
+1. Fonction logique, la clause ’`CHOOSE`’, retourne l’élément voulu
 1. Les clauses ’`REPLACE`’ & ’`LEN`’
 1. Les clauses ’`REPLICATE`’, ’`REVERSE`’ & ’`CHARINDEX`’
 1. Les clauses ’`STRING/SPLIT`’ & ’`STUFF`’
-1. Les fonctions ’`CONCAT`’ & ’`CONCAT_WS`’
+1. Les fonctions de concaténation ’`CONCAT`’ & ’`CONCAT_WS`’
 1. La clause’`DROP IF EXISTS`’
 1. La clause ’`COALESCE`’
 1. Les clauses ’`UNION`’ & ’`UINION ALL`’
