@@ -42,7 +42,8 @@ ___
 1. Plusieurs jointures
 1. La jointure ’`LEFT JOIN`’ vs ’`NOT IN`’ vs ’`NOT EXISTS`’
 1. Update avec les jointures
-1. Le ’`Hint`’ avec les jointures
+1. L’indicateur ’`hint`’ change l’ordre des jointures
+1. L’opérateur ’`HHASH JOIN`’ pour les volumes moyens et grands
 1. Les jointures ’`CROSS APPLY`’ & ’`OUTER APPLY`’
 1. Les jointures ’`EXCEPT`’ / ’`INTERSEPT`’
 1. Les clauses ’`OFFSET-FETCH`’ & ’`NEXT-ROWS`’
