@@ -1,6 +1,6 @@
 <div align="center"><h1><b> Microsoft SQL Server</b><a href="https://github.com/MiKL5/Business_Intelligence/"><img src="assets/Microsoft_SQL_Server.svg" alt="Microsoft SQL Server" align="right" height="64px"></a></h1>
 
-Système de Gestion de Base de Données Relationnel initialement développé en 1988 par Sybase et Microsoft, puis commercialisé en 1989. En 1084, le partenariat est rompu ; Microsoft le commercialise sous SQL server.
+Système de Gestion de Base de Données Relationnel initialement développé en 1988 par Sybase et Microsoft, puis commercialisé en 1989. En 1984, le partenariat est rompu ; Microsoft le commercialise sous SQL server.
 
 Il se distingue de la concurence par une grande richesse ne nécessitant aucune option payante supplémentaire dans la limite de la version choisie.
 
@@ -8,6 +8,7 @@ Contrairement à Oracle, MySQL et PostgreSQL, SQL Server se distingue du fait d�
 
 Il fonctionne avec le [Transact-SQL](docs/tsql) développer dans les années 1980 par Sybase et Microsoft ; il étend les capacités de SQL avec des instructions supplémentaires pour la manupulation et la définition des données, ainsi que des fonctionnalités spécifiques à SQL server, telles que la sécurité et les statistiques de base de données.  
 Le T-SQL est analogue au [PL/SQL (Procedural Language / Structured Query Language)](docs/plsql).</div>
+[SQL](https://github/com/MiKL5/DS/SQL)
 ___
 0. [Version](sqlServer/version)
 ---
@@ -31,6 +32,7 @@ ___
 1. La condition ’`HAVING`’
 1. Grouper les résultats
 1. Les valeurs temporelles et dates manquantes `DATE_BUCKET`, `FIRST_VALUE` & `LAST_VALUE`
+1. Les fonctions de dates `DATEADD` & `DATEDIFF`
 1. Générer les séquences de nombre avec `GENERATE_SERIES`
 1. Retourner un message
 1. La jointure ’`INNER JOIN`’

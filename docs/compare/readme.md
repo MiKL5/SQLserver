@@ -1,4 +1,4 @@
-# **Parangon avec SQL, T-SQL et PL/SQL**<a href="../../"><img src="../../assets/Microsoft_SQL_Server.svg" alt="SQL Server" align="right" height="64px"></a>
+# **Parangon d’SQL, T-SQL et PL/SQL**<a href="../../"><img src="../../assets/Microsoft_SQL_Server.svg" alt="SQL Server" align="right" height="64px"></a>
 Caractéristique	| SQL | T-SQL | PL/SQL
 ---|:-:|:-:|:-:|
 Rôle principal | Langage de requête standardisé | Extension procédurale pour SQL Server | Extension procédurale pour Oracle Database	
