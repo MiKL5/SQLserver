@@ -1,5 +1,5 @@
 # **Parangon d’SQL, T-SQL et PL/SQL**<a href="../../"><img src="../../assets/Microsoft_SQL_Server.svg" alt="SQL Server" align="right" height="64px"></a>
-Caractéristique	| SQL | T-SQL | PL/SQL
+Caractéristique	| **[SQL](https://github.com/MiKL5/DS/tree/master/SQL)** | **T-SQL** | **PL/SQL**
 ---|:-:|:-:|:-:|
 Rôle principal | Langage de requête standardisé | Extension procédurale pour SQL Server | Extension procédurale pour Oracle Database	
 Standardisation| ✅ Norme ANSI SQL | ❌ Microsoft | ❌ Oracle	

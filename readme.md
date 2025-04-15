@@ -8,7 +8,7 @@ Contrairement à Oracle, MySQL et PostgreSQL, SQL Server se distingue du fait d�
 
 Il fonctionne avec le [Transact-SQL](docs/tsql) développer dans les années 1980 par Sybase et Microsoft ; il étend les capacités de SQL avec des instructions supplémentaires pour la manupulation et la définition des données, ainsi que des fonctionnalités spécifiques à SQL server, telles que la sécurité et les statistiques de base de données.  
 Le T-SQL est analogue au [PL/SQL (Procedural Language / Structured Query Language)](docs/plsql).</div>
-[SQL](https://github/com/MiKL5/DS/SQL)
+<!-- [SQL](https://github.com/MiKL5/DS/tree/master/SQL) -->
 ___
 0. [Version](https://github.com/MiKL5/DS/tree/master/SQL)
 ---
