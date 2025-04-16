@@ -33,6 +33,7 @@ ___
 1. Grouper les résultats
 1. Les valeurs temporelles et dates manquantes `DATE_BUCKET`, `FIRST_VALUE` & `LAST_VALUE`
 1. Les fonctions de dates `DATEADD` & `DATEDIFF`
+1. Les fonctions de dates `DATEPART` , `DATENAME` , `GETDATE` &  `GETUTCDATE`
 1. Générer les séquences de nombre avec `GENERATE_SERIES`
 1. Retourner un message
 1. La jointure ’`INNER JOIN`’
@@ -92,7 +93,7 @@ ___
 1. Les fonctions inline<!-- (aussi dite de type table)-->
 1. Sargable or not sargable
 1. Les performances des foctions scalaire
-1. La fonction de partition par la clause `WINDOW`
+1. La fonction de partition par la clause ’`WINDOW`’
 ___
 [SQL](https://github.com/MiKL5/DS/tree/master/SQL)  
 [SQL vs T-SQL vs PL/SQL](docs/compare)
