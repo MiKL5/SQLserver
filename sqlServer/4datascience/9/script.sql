@@ -89,3 +89,33 @@ set @local_time = getdate() ;
 set @utc_time   = getutcdate() ;
 select 'Server local time' + convert(varchar(40) , @local_time) 'local time' ;
 select 'Server UTC time'   + convert(varchar(40) , @utc_time) 'universal time' ;
+
+-- le dernier jour de ce mois
+select eomonth(getdate() ) ;
+
+-- du mois prochain
+select eomonth(getdate() , 1) ;
+
+-- dernier jour de décembre
+select eomonth(getdate() , -4) ;
+select eomonth(getdate() , 8) ;
+
+-- le dernier jour du mois dernier
+select eomonth(getdate() , -1) ;
+select dateadd(month , datediff(month , 1 , getdate() ) , -1) ;
+
+-- le premier du mois
+select dateadd(month , datediff(month , 0 , getdate() ) , 0) ;
+
+-- du mois précédent
+select dateadd(month , datediff(month , 0 , getdate() ) -1, 0) ;
+
+-- le premier du prochain mois
+select dateadd(month , datediff(month , 0 , getdate() ) +1, 0) ;
+
+-- En français, anglais et allemand
+select top(1)
+format(eomonth(sellStartDate) , 'D' , 'fr-FR') français ,
+format(eomonth(sellStartDate) , 'D' , 'en-US') anglais ,
+format(eomonth(sellStartDate) , 'D' , 'de-de') allemand 
+from [adventureworks2022].[Production].[Product] ;

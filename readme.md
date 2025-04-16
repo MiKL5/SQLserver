@@ -33,7 +33,10 @@ ___
 1. Grouper les résultats
 1. Les valeurs temporelles et dates manquantes `DATE_BUCKET`, `FIRST_VALUE` & `LAST_VALUE`
 1. Les fonctions de dates `DATEADD` & `DATEDIFF`
-1. Les fonctions de dates `DATEPART` , `DATENAME` , `GETDATE` &  `GETUTCDATE`
+1. Les fonctions de dates `DATEADD` & `DATEDIFF`
+1. Les fonctions de dates `DATEPART` & `DATENAME`
+1. Les fonctions scalaires de dates `GETDATE` &  `GETTCDATE`
+1. La fonction de date `EOMONTH`
 1. Générer les séquences de nombre avec `GENERATE_SERIES`
 1. Retourner un message
 1. La jointure ’`INNER JOIN`’
