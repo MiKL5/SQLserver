@@ -10,7 +10,7 @@ Il fonctionne avec le [Transact-SQL](docs/tsql) développer dans les années 198
 Le T-SQL est analogue au [PL/SQL (Procedural Language / Structured Query Language)](docs/plsql).</div>
 <!-- [SQL](https://github.com/MiKL5/DS/tree/master/SQL) -->
 ___
-0. [Version](sqlServer/version)
+0. [Version](docs/version)
 ---
 1. Les BDD
 1. Les tables
