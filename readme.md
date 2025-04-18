@@ -68,6 +68,7 @@ ___
 1. La clause’`DROP IF EXISTS`’
 1. La clause ’`COALESCE`’
 1. Les clauses ’`UNION`’ & ’`UINION ALL`’
+1. Fusionner avec ’`MERGE`’
 1. Les fonctions de conversion ’`CAST`’ & ’`CONVERT`’
 1. Les fonctions de conversion ’`TRY CAST`’ & ’`TRY CONVERT`’
 1. Les fonctions de conversion ’`TRY PARSE`’ & ’`PARSE`’
