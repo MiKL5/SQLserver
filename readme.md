@@ -70,13 +70,15 @@ ___
 1. Les clauses ’`UNION`’ & ’`UINION ALL`’
 1. Fusionner avec ’`MERGE`’
 1. Les fonctions de conversion ’`CAST`’ & ’`CONVERT`’
+1. Le contrôle de flux avec ’`IF`’ & ’`ELSE`’
+1. Le contrôle de flux avec ’`BEGINN TRY`’ & ’`BEGIN CATCH`’
 1. Les fonctions de conversion ’`TRY CAST`’ & ’`TRY CONVERT`’
 1. Les fonctions de conversion ’`TRY PARSE`’ & ’`PARSE`’
 1. Les types de colonnes : chaîne de caractères
 1. Les types de colonnes : les types numériques
 1. Les types de colonnes : dates
 1. Les types de colonnes : la colonne GUID
-1. Les types de colonnes : la performuance sur la colonne GUID
+1.  Les types de colonnes : la performuance sur la colonne GUID
 1. Les types de colonnes : ajour, renommage et suppresion
 1. Les types de colonnes : choix des colonnes ‘`VARCHAR`’
 1. La vue
