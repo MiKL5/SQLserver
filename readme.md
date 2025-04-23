@@ -70,7 +70,7 @@ ___
 1. Les clauses ’`UNION`’ & ’`UINION ALL`’
 1. Fusionner avec ’`MERGE`’
 1. Les fonctions de conversion ’`CAST`’ & ’`CONVERT`’
-1. Le contrôle de flux avec ’`IF`’ & ’`ELSE`’
+1. Le contrôle de flux avec ’`IF/ELSE`’ & ’`WAITFOR`’
 1. Le contrôle de flux avec ’`BEGINN TRY`’ & ’`BEGIN CATCH`’
 1. Les fonctions de conversion ’`TRY CAST`’ & ’`TRY CONVERT`’
 1. Les fonctions de conversion ’`TRY PARSE`’ & ’`PARSE`’
