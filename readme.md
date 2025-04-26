@@ -78,7 +78,7 @@ ___
 1. Les types de colonnes : les types numériques
 1. Les types de colonnes : dates
 1. Les types de colonnes : la colonne GUID
-1.  Les types de colonnes : la performuance sur la colonne GUID
+1. Les types de colonnes : la performuance sur la colonne GUID
 1. Les types de colonnes : ajour, renommage et suppresion
 1. Les types de colonnes : choix des colonnes ‘`VARCHAR`’
 1. La vue
