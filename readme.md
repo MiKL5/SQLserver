@@ -10,8 +10,8 @@ Il fonctionne avec le [Transact-SQL](docs/tsql) développer dans les années 198
 Le T-SQL est analogue au [PL/SQL (Procedural Language / Structured Query Language)](docs/plsql).</div>
 <!-- [SQL](https://github.com/MiKL5/DS/tree/master/SQL) -->
 ___
-0. [Version](docs/version)
----
+<!-- 0. [Version](docs/version)
+--- -->
 1. Les BDD
 1. Les tables
 1. Insérer, sélectionner, modifier et supprimer les données
@@ -100,6 +100,7 @@ ___
 1. Sargable or not sargable
 1. Les performances des foctions scalaire
 1. La fonction de partition par la clause ’`WINDOW`’
-___
+<!-- ___
 [SQL](https://github.com/MiKL5/DS/tree/master/SQL)  
-[SQL vs T-SQL vs PL/SQL](docs/compare)
+[SQL vs T-SQL vs PL/SQL](docs/compare) -->
+<div align="center"><br><a href="docs"><img src="assets/sstsql.png"></a>
