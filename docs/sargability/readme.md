@@ -1,4 +1,4 @@
-# **Sagabilité**
+# **Sagabilité**<a href="../"><img src="../../assets/Microsoft_SQL_Server.svg" alt="SQL Server" align="right" height="64px"></a>
 ## **✨ Explication**
 > SARGABILITY, c’est un mot pour dire “est-ce que ton ordinateur peut trouver vite ?”  
 
@@ -15,7 +15,7 @@ Question SARGABLE : “Donne-moi tous les livres où l’étiquette dit ‘HISTO
 Question non-SARGABLE (lent) : “Ouvre chaque tiroir, lis chaque livre, et dis-moi si ça parle d’histoire.”
 
 ## **🎯 Résumé très simple**:
-Mot	Signification facile
+Mot | Facilité
 ---|---
 SARGABLE | L’ordinateur trouve vite avec une étiquette.
 Non-SARGABLE | L’ordinateur doit tout ouvrir pour chercher.
@@ -23,7 +23,7 @@ Non-SARGABLE | L’ordinateur doit tout ouvrir pour chercher.
 ## **🛒 L’analogie du supermarché**
 Chaque rayon (fruits, jouets, livres, etc.) est bien étiqueté.
 
-Si tu cherches “des pommes”, tu vas directement au rayon fruits ➔ C’est rapide ! ; c’est SARGABLE 🍏✅.
+Si tu cherches “des pommes”, tu vas directement au rayon fruits ➔ C’est rapide ! ; c’est SARGABLE 🍏✅.  
 Nonobstant, si quelqu’un te dit “trouve quelque chose qui est rouge et qui croque” sans t’indiquer le rayon, tu dois aller partout, goûter tous les produits ➔ C’est lent ! Donc, non-SARGABLE 🍎❌.
 
 ## **🏴‍☠️ L’analogie du trésor caché**
@@ -40,8 +40,8 @@ Creuser partout sans carte | Lent 🏖️	| ❌
 ## **🧠 Simple à retenir**
 SARGABLE, c’est quand ce qu’il faut pour aller vite !
 ```
-La colonne reste “nue”, sans transformation, pour que l’index puisse être utilisé.  
- L’exécution de la requête est plus rapide grâce à l’Index Seek.
+    La colonne reste “nue”, sans transformation, pour que l’index puisse être utilisé.  
+    L’exécution de la requête est plus rapide grâce à l’Index Seek.
 ```
 ## **🎯 Résumé “SARGABILITY”**
 SARGABILITY (Search ARGument ABILITY) est la capacité d’une requête SQL à profiter d’un index pour accéder efficacement aux données.
@@ -69,3 +69,4 @@ WHERE UPPER(lastname) = ‘DUPONT’ | Non ; fonction sur la colonne | ❌
 
 ## **🔥 Résumé ultra-court**
 Sargable ⟹ Requête utilisant les index efficacement ➡️ Moins d’I/O ; meilleures performances.
+<div align="center"><br><br><a href="../../"><img src="../../assets/sstsql2.png"></a>

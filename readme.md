@@ -103,4 +103,10 @@ ___
 <!-- ___
 [SQL](https://github.com/MiKL5/DS/tree/master/SQL)  
 [SQL vs T-SQL vs PL/SQL](docs/compare) -->
-<div align="center"><br><a href="docs"><img src="assets/sstsql.png"></a>
+<div align="center"><br><br><a href="docs"><img src="assets/sstsql1.png" height="256px"></a>
+
+## **Sujets connexes**
+[PostgreSQL](https://github.com/MiKL5/PostgreSQL) <a href="https://github.com/MiKL5/PostgreSQL"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" align="center" height="20px"> </a>  
+[MongoDB](https://github.com/MiKL5/MongoDB) <a href="https://github.com/MiKL5/MongoDB"> <img src="https://github.com/MiKL5/Business_Intelligence/blob/master/assets/mongodb_original_logo_icon_146424.svg" alt="MongoDB" align="center" height="20px"> </a>
+
+[Power BI](https://github.com/MiKL5/PowerBI) <a href="https://github.com/MiKL5/PowerBI"> <img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="center" height="20px"> </a>

@@ -1,4 +1,4 @@
-# **Parangon d’SQL, T-SQL et PL/SQL**<a href="../../"><img src="../../assets/Microsoft_SQL_Server.svg" alt="SQL Server" align="right" height="64px"></a>
+# **Parangon d’SQL, T-SQL et PL/SQL**<a href="../"><img src="../../assets/Microsoft_SQL_Server.svg" alt="SQL Server" align="right" height="64px"></a>
 Caractéristique	| **[SQL](https://github.com/MiKL5/DS/tree/master/SQL)** | **T-SQL** | **PL/SQL**
 ---|:-:|:-:|:-:|
 Rôle principal | Langage de requête standardisé | Extension procédurale pour SQL Server | Extension procédurale pour Oracle Database	
@@ -14,3 +14,4 @@ Intégration avec la base de données | Standardisé, portable | Forte intégrat
 Utilisation typique | Requêtes de données, manipulation de données | Applications de base de données SQL Server, automatisation | Applications de base de données Oracle, automatisation
 Avantages | Standard, portable, facile à apprendre | Fonctionnalités procédurales puissantes, intégration avec SQL Server | Fonctionnalités procédurales puissantes, intégration avec Oracle Database
 Inconvénients | Aucune fonctionnalités procédurales | Spécifique | Spécifique	
+<div align="center"><br><br><a href="../../"><img src="../../assets/sstsql2.png"></a>

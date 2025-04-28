@@ -1,4 +1,4 @@
-# **Quelle est la différence entre un langage déclaratif et procédural ?**<a href="../../"><img src="../../assets/Microsoft_SQL_Server.svg" alt="SQL Server" align="right" height="64px"></a>
+# **Quelle est la différence entre un langage déclaratif et procédural ?**<a href="../"><img src="../../assets/Microsoft_SQL_Server.svg" alt="SQL Server" align="right" height="64px"></a>
 Critère | Langage Déclaratif ❇️ | Langage Procédural 🔄
 ---|:-:|:-:
 Définition | Décrit ce que l’on veut obtenir sans préciser comment le faire. | Décrit comment effectuer une tâche avec une séquence d’instructions.
@@ -8,3 +8,4 @@ Exemple de langage | SQL, HTML, Prolog, Haskell. | C, Java, Python, PL/SQL, T-SQ
 Lisibilité | Simple à comprendre ; il exprime l’intention. | Possiblement plus complexe à cause des multiples étapes détaillées.
 Performance | Souvent optimisé par le moteur d’exécution. | Dépend de l’efficacité des instructions écrites par le développeur.
 Utilisation principale | Interrogation de bases de données, logique déclarative, programmation fonctionnelle. | Développement d’applications, manipulation de données, exécution de processus.
+<div align="center"><br><br><a href="../../"><img src="../../assets/sstsql2.png"></a>

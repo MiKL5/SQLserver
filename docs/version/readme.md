@@ -1,4 +1,4 @@
-# **Quelle est la version d’SQL server ?**<a href="../../"><img src="../../assets/Microsoft_SQL_Server.svg" alt="SQL Server" align="right" height="64px"></a>
+# **Quelle est la version d’SQL server ?**<a href="../"><img src="../../assets/Microsoft_SQL_Server.svg" alt="SQL Server" align="right" height="64px"></a>
 ## **Information détaillées**
 ```sql
 SELECT @@VERSION AS Version ;
@@ -49,3 +49,4 @@ end ;
 exec dbo.sp_info_sqlserver ;
 ```
 ’dpo’ : Shéma par défaut pour les objets créés par les utilisateurs.
+<div align="center"><br><br><a href="../../"><img src="../../assets/sstsql2.png"></a>

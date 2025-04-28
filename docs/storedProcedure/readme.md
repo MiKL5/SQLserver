@@ -1,4 +1,4 @@
-# **Procédure stockée**<a href="../../"> <img src="../../assets/Microsoft_SQL_Server.svg" alt="SQL Server" align="right" height="64px"> </a>
+# **Procédure stockée**<a href="../"> <img src="../../assets/Microsoft_SQL_Server.svg" alt="SQL Server" align="right" height="64px"> </a>
 C’est un ensemble d’instruction SQL compilée à la base de données.  
 Pouvant contenir les instructions ‘INSERT’, ‘UPDATE’, ‘DELETE’.
 Avaantages | Inconvénients
@@ -14,3 +14,4 @@ Préfixe | Comportement | Risque
 :-:|---|---
 `sp_` ❌ | 👎 Recherche d’abord dans master | Oui 👎 (performance + conflit futur)
 `ps_` 👏 | 👍 Recherche normale, aucun traitement spécial | Aucun
+<div align="center"><br><br><a href="../../"><img src="../../assets/sstsql2.png"></a>
