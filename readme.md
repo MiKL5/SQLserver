@@ -24,20 +24,20 @@ ___
 1. Les opérateurs de prédicats d’appartenance
 1. Les opérateurs de test de nullité
 1. Les opérateur logiques ’`AND`’ & ’`OR`’
-1. Trier via `ORDER BY`
+1. Trier via ’`ORDER BY`’
 1. Les fonctions d’agrégation ’`MIN`’, ’`MAX`’ & ’`AVERAGE`’
 1. L’opérateur `BETWEEN`
 1. La fonction d’agrégat ’`COUNT`’
 1. La fonction d’agrégat ’`SUM`’
 1. La condition ’`HAVING`’
 1. Grouper les résultats
-1. Les valeurs temporelles et dates manquantes `DATE_BUCKET`, `FIRST_VALUE` & `LAST_VALUE`
-1. Les fonctions de dates `DATEADD` & `DATEDIFF`
-1. Les fonctions de dates `DATEADD` & `DATEDIFF`
-1. Les fonctions de dates `DATEPART` & `DATENAME`
-1. Les fonctions scalaires de dates `GETDATE` &  `GETTCDATE`
-1. La fonction de date `EOMONTH`
-1. Générer les séquences de nombre avec `GENERATE_SERIES`
+1. Les valeurs temporelles et dates manquantes ’`DATE_BUCKET`’, ’`FIRST_VALUE`’ & ’`LAST_VALUE`’
+1. Les fonctions de dates ’`DATEADD`’ & ’`DATEDIFF`’
+1. Les fonctions de dates ’`DATEADD`’ & ’`DATEDIFF`’
+1. Les fonctions de dates ’`DATEPART`’ & ’`DATENAME`’
+1. Les fonctions scalaires de dates ’`GETDATE`’ &  ’`GETTCDATE`’
+1. La fonction de date ’`EOMONTH`’
+1. Générer les séquences de nombre avec ’`GENERATE_SERIES`’
 1. Retourner un message
 1. La jointure ’`INNER JOIN`’
 1. La jointure ’`LEFT JOIN`’
@@ -65,7 +65,7 @@ ___
 1. Les clauses ’`REPLICATE`’, ’`REVERSE`’ & ’`CHARINDEX`’
 1. Les clauses ’`STRING/SPLIT`’ & ’`STUFF`’
 1. Les fonctions de concaténation ’`CONCAT`’ & ’`CONCAT_WS`’
-1. La clause’`DROP IF EXISTS`’
+1. La clause ’`DROP IF EXISTS`’
 1. La clause ’`COALESCE`’
 1. Les clauses ’`UNION`’ & ’`UINION ALL`’
 1. Fusionner avec ’`MERGE`’
@@ -105,8 +105,8 @@ ___
 [SQL vs T-SQL vs PL/SQL](docs/compare) -->
 <div align="center"><br><br><a href="docs"><img src="assets/sstsql1.png" height="256px"></a>
 
-## **Sujets connexes**
-[PostgreSQL](https://github.com/MiKL5/PostgreSQL) <a href="https://github.com/MiKL5/PostgreSQL"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" align="center" height="20px"> </a>  
-[MongoDB](https://github.com/MiKL5/MongoDB) <a href="https://github.com/MiKL5/MongoDB"> <img src="https://github.com/MiKL5/Business_Intelligence/blob/master/assets/mongodb_original_logo_icon_146424.svg" alt="MongoDB" align="center" height="20px"> </a>
+## **🔗 Sujets connexes** </div>
+[PostgreSQL](https://github.com/MiKL5/PostgreSQL) <a href="https://github.com/MiKL5/PostgreSQL"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" align="left" height="20px"> </a>  
+[MongoDB](https://github.com/MiKL5/MongoDB) <a href="https://github.com/MiKL5/MongoDB"> <img src="https://github.com/MiKL5/Business_Intelligence/blob/master/assets/mongodb_original_logo_icon_146424.svg" align="left" height="20px"> </a>
 
-[Power BI](https://github.com/MiKL5/PowerBI) <a href="https://github.com/MiKL5/PowerBI"> <img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="center" height="20px"> </a>
+[Power BI](https://github.com/MiKL5/PowerBI) <a href="https://github.com/MiKL5/PowerBI"> <img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="left" height="20px"> </a>
